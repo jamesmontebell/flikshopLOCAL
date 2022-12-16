@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding_survey___landing_page colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__onboarding_survey___landing_page_color">#370C5A</color>
+	<color name="_bg__onboarding_survey___landing_page_ek2_color">#370C5A</color>
+	<color name="welcome_to_flikshop_color">#F3F4F6</color>
+	<color name="here_is_a_short_tutorial_of_how_to_use_and_navigate_flikshopme_color">#3F3C3C</color>
+	<color name="rectangle_3003_color">#F3F3F3</color>
+	<color name="rectangle_3004_color">#928F8F</color>
+	<color name="before_you_start__select_some_topics_that_interest_you_most__color">#000000</color>
+	<color name="_1_out_of_5_chosen_color">#6D6B6B</color>
+	<color name="rectangle_2925_color">#FFFFFF</color>
+	<color name="line_1_color">#E2E3E5</color>
+	<color name="build_apps_for_phones__improve_your_job_search_or_your_goal_to_start_a_business_by_learning_coding_languages__color">#6D6D6D</color>
+	<color name="ellipse_28_color">#7336A4</color>
+	<color name="learn_how_to_build_apps_for_a_phone__these_skills_can_help_your_job_search____color">#B9B9B9</color>
+	<color name="rectangle_23_color">#FFFDFD</color>
+	<color name="ellipse_93_color">#D9D1E0</color>
+	<color name="rectangle_2919_color">#FFFFFF</color>
+	<color name="_bg__onboarding_survey___likert_scale_color">#F3F4F6</color>
+	<color name="learn_how_to_build_apps_for_a_phone__these_skills_can_help_your_job_search____ek1_color">#B9B9B9</color>
+	<color name="this_will_help_curate_content_personalized_for_you__you_may_select_as_many_interests_you_d_like_but_we_d_recommend_at_least_3_interest__don_t_worry__you_can_change_this_later__color">#3F3C3C</color>
+
+	<color name="primary_purple">#370C5A</color>
+</resources>

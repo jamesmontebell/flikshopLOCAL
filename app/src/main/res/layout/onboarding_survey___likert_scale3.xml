@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/onboarding_survey___likert_scale" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+			<RelativeLayout
+				android:id="@+id/page_onboarding_survey___likert_scale_ek7"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp">
+
+
+				<RelativeLayout
+					android:id="@+id/rectangle_3173"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp">
+
+					<View
+						android:id="@+id/rectangle_3173_ek1"
+						android:layout_width="1340dp"
+						android:layout_height="800dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:alpha="0.49000000953674"
+						android:background="@drawable/rectangle_3173_ek1_shape" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/group_5467"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="176px"
+					android:layout_marginTop="139px">
+
+					<View
+						android:id="@+id/rectangle_2932"
+						android:layout_width="932px"
+						android:layout_height="569px"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/rectangle_2932_shape" />
+
+
+					<RelativeLayout
+						android:id="@+id/group_5356"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="37dp"
+						android:layout_marginTop="34dp">
+
+
+						<RelativeLayout
+							android:id="@+id/group_5328"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="237dp"
+							android:layout_marginTop="442dp">
+
+							<View
+								android:id="@+id/rectangle_2976"
+								android:layout_width="393dp"
+								android:layout_height="60dp"
+								android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:background="@drawable/rectangle_2976_shape" />
+
+							<TextView
+								android:id="@+id/got_it_"
+								android:layout_width="208.91px"
+								android:layout_height="35px"
+								android:layout_gravity="center_horizontal|center"
+								android:layout_marginLeft="87dp"
+								android:layout_marginTop="13dp"
+								android:fontFamily="@font/archivo_semibold"
+								android:gravity="center"
+								android:text="@string/got_it__string"
+								android:textColor="@color/rectangle_2925_color"
+								android:textSize="22sp"
+								android:textStyle="bold" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout
+							android:id="@+id/group_5355"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="91dp"
+							android:layout_marginTop="39dp">
+
+							<TextView
+								android:id="@+id/_1_interest_needed"
+								android:layout_width="478dp"
+								android:layout_height="72dp"
+								android:layout_gravity="center_horizontal|center"
+								android:layout_marginLeft="98dp"
+								android:layout_marginTop="0dp"
+								android:fontFamily="@font/archivo_bold"
+								android:gravity="center"
+								android:text="@string/_1_interest_needed_string"
+								android:textColor="@color/here_is_a_short_tutorial_of_how_to_use_and_navigate_flikshopme_color"
+								android:textSize="36sp"
+								android:textStyle="bold" />
+
+							<TextView
+								android:id="@+id/tap_on_a_topic_to_choose_your_interest_and_customize_your_experience"
+								android:layout_width="683dp"
+								android:layout_height="48dp"
+								android:layout_gravity="center_horizontal|center"
+								android:layout_marginLeft="-4dp"
+								android:layout_marginTop="59dp"
+								android:fontFamily="@font/archivo_regular"
+								android:gravity="center"
+								android:text="@string/tap_on_a_topic_to_choose_your_interest_and_customize_your_experience_string"
+								android:textColor="@color/here_is_a_short_tutorial_of_how_to_use_and_navigate_flikshopme_color"
+								android:textSize="22sp" />
+
+						</RelativeLayout>
+
+						<ImageView
+							android:id="@+id/vector_ek41"
+							android:layout_width="19.5dp"
+							android:layout_height="19.5dp"
+							android:layout_marginStart="-27dp"
+							android:layout_marginTop="-24dp"
+							android:contentDescription="vector_ek41"
+							android:src="@drawable/vector_ek41" />
+
+						<ImageView
+							android:id="@+id/vector_ek42"
+							android:layout_width="19.5dp"
+							android:layout_height="19.5dp"
+							android:layout_marginStart="-27dp"
+							android:layout_marginTop="-24dp"
+							android:contentDescription="vector_ek42"
+							android:src="@drawable/vector_ek42" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout
+						android:id="@+id/mdi_gesture_double_tap"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="395dp"
+						android:layout_marginTop="240dp">
+
+						<ImageView
+							android:id="@+id/vector_ek43"
+							android:layout_width="86.92dp"
+							android:layout_height="125.83dp"
+							android:layout_marginStart="31.04dp"
+							android:layout_marginTop="18.88dp"
+							android:contentDescription="vector_ek43"
+							android:src="@drawable/vector_ek43" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</RelativeLayout>
